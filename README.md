@@ -3,7 +3,7 @@
 <br>![reactcontrolefinanceiro](https://user-images.githubusercontent.com/97356148/185938712-de70e3ab-a173-42b9-bce2-a9a16cdcc304.jpg)
 
 <br>📄 Explicação
-<h3>O projeto controle financeiro foi criado com objetivo de colocar em prática meus conhecimentos em ReactJs,consiste em uma interface simples, aonde pode anotar sua entrada ou saída dos gastos, descriçao e valor referentes é obrigatórios, com possibilidade também de excluir,relacionado ao curso Devclub - Desenvolvedor Full Stack.
+<h3>O projeto controle financeiro foi criado com objetivo de colocar em prática meus conhecimentos em ReactJs,consiste em uma interface simples, aonde pode anotar sua entrada ou saída dos gastos, descriçao e valor referentes é obrigatórios, com possibilidade também de excluir,relacionado ao curso Devclub - Desenvolvedor Full Stack. <br><h3>🚀Link do site: https://wonderful-cucurucho-d24239.netlify.app/
 <br><h1>📁 Páginas
 
 <h3>O site tem no total 1 página, sendo ela:
